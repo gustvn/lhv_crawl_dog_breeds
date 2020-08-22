@@ -1,0 +1,5 @@
+
+
+{ "breed": "aaa", "timestamp": "2020-08-23 01:56:27 +0700", "result": "Breed not found (master breed does not exist)" }
+
+{ "breed": "african", "timestamp": "2020-08-23 01:56:29 +0700", "result": "results/african.csv" }
